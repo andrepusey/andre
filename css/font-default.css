@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Spartan-ExtraBold';
+  src: url('../assets/webfonts/Spartan-ExtraBold.ttf');
+}
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url('../assets/webfonts/Roboto-Regular.ttf');
+}
+@font-face {
+  font-family: 'Roboto-Light';
+  src: url('../assets/webfonts/Roboto-Light.ttf');
+}
+@font-face {
+  font-family: 'Roboto-Bold';
+  src: url('../assets/webfonts/Roboto-Bold.ttf');
+}
